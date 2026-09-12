@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,http://defaultgen.com:3050/xmltv.php?username=R9YN4ecdXe&password=ZJs7z2yXSw,https://i.mjh.nz/PlutoTV/us.xml"
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Live Channels",Adult Swim East
-https://raw.githubusercontent.com/Aquastub/insolencetvgo/main/streams/aseast.us.m3u8
+https://raw.githubusercontent.com/Aquastub/insolencetvgo/refs/heads/refs/heads/main/streams/aseast.us.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Live Channels",Adult Swim West
-https://raw.githubusercontent.com/Aquastub/insolencetvgo/main/streams/aswest.us.m3u8
+https://raw.githubusercontent.com/Aquastub/insolencetvgo/refs/heads/main/streams/aswest.us.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Live Channels",Cartoon Network East
 http://212.102.60.231/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Live Channels",Cartoon Network West
@@ -34,6 +34,6 @@ http://thevdm.xyz:25461/Jennifer/Year!/20113
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV East" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV East
 http://212.102.60.231/TRU_TV/index.m3u8
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV East (Adaptive)" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV East (Adaptive)
-https://raw.githubusercontent.com/Aquastub/insolencetvgo/main/streams/trutveast.us.m3u8
+https://raw.githubusercontent.com/Aquastub/insolencetvgo/refs/heads/main/streams/trutveast.us.m3u8
 #EXTINF:-1 tvg-id="truTVPacific.us" tvg-name="truTV West" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV West
-https://raw.githubusercontent.com/Aquastub/insolencetvgo/main/streams/trutvwest.us.m3u8
+https://raw.githubusercontent.com/Aquastub/insolencetvgo/refs/heads/main/streams/trutvwest.us.m3u8
