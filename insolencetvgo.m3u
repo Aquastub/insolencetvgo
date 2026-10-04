@@ -3,12 +3,10 @@
 https://raw.githubusercontent.com/Aquastub/insolencetvgo/refs/heads/main/streams/aseast.us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adult Swim West (US IP Only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Live Channels",Adult Swim West (US IP Only)
 https://raw.githubusercontent.com/Aquastub/insolencetvgo/refs/heads/main/streams/aswest.us.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Live Channels",Cartoon Network East
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network East + Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Live Channels",Cartoon Network East + Adult Swim East
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network East (Adaptive, US IP Only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Live Channels",Cartoon Network East (Adaptive, US IP Only)
 https://raw.githubusercontent.com/Aquastub/insolencetvgo/refs/heads/main/streams/cneast.us.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network West (Adaptive, US IP Only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Live Channels",Cartoon Network West (Adaptive, US IP Only)
-https://raw.githubusercontent.com/Aquastub/insolencetvgo/refs/heads/main/streams/cnwest.us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="truTV East (US IP Only)" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV East (US IP Only)
 https://raw.githubusercontent.com/Aquastub/insolencetvgo/refs/heads/main/streams/trutveast.us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="truTV West (US IP Only)" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV West (US IP Only)
